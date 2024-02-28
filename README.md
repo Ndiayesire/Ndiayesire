@@ -16,7 +16,7 @@
  <a href="https://instagram.com/classic_mvn" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</div><br>
 
 I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open-source projects.
 
