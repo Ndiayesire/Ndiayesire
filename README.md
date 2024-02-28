@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p>
 
-<p align="center" style="text-decoration: none;">
+<div align="center" style="text-decoration: none;">
   <a href="mailto:ndiayesirekane@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -16,7 +16,7 @@
  <a href="https://instagram.com/classic_mvn" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+</div>
 
 I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open-source projects.
 
