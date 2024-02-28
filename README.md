@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center"> Wecome 👋 </h1> </p>
 
-<p align="center">
+<p align="center" style="text-decoration: none;">
   <a href="mailto:ndiayesirekane@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
