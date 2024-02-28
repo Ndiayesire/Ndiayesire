@@ -1,10 +1,10 @@
-<p align="center"> <h1 align="center"> Ndiaye Siré Kane </h1> </p>
+<p align="center"> <h1 align="center"> Wecome 👋 </h1> </p>
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://wa.me/your-phone-number">
+  <a href="https://wa.me/+221778673184">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://slack.com/your-slack-link">
@@ -12,7 +12,11 @@
   </a>
   <a href="https://discord.com/your-discord-link">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <
+  </a>
+ <a href="https://instagram.com/classic_mvn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open-source projects.
 
