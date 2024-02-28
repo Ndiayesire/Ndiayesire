@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p><br
+<p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p>
 
 <p align="center"> <h4 align="center"> Contact me here 👇 </h4> </p>
 
