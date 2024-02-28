@@ -38,7 +38,11 @@ I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open
 
 📫 How to reach me:
 
-`Website` - [Elangovan.in](https://elangovan.in)
+`Email` -   <a href="mailto:ndiayesirekane@gmail.com">
+    <span style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </span>
+  </a>
 
 ❤️ Support my open source projects:
 
