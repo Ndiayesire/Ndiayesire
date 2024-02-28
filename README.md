@@ -1,7 +1,4 @@
 <p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p><br
-<p align="center">
-<a href="https://app.daily.dev/ndiayesirkane"><img src="https://api.daily.dev/devcards/v2/JrCUzateuFEqfCesQ8VPf.png?r=xo1" width="356" alt="Ndiaye Siré KANE's Dev Card"/></a>
-</p><br>
 
 <p align="center"> <h4 align="center"> Contact me here 👇 </h4> </p>
 
@@ -43,7 +40,7 @@ I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open
 
 📫 How to reach me:
 
-`Let's play Videos Games` - ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) - Ge3kmvn 
+`Let's play Videos Games` - ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)  PSN: Ge3kmvn 
 
 ❤️ Support my open source projects:
 
