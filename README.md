@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p>
+<p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p><br>
 
 <div align="center" style="text-decoration: none;">
   <a href="mailto:ndiayesirekane@gmail.com" style="text-decoration: none;">
