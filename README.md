@@ -1,4 +1,5 @@
 <p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p><br>
+<p align="center"> <h4 align="center"> Contact me here 👇 </h4> </p><br>
 
 <div align="center">
   <a href="mailto:ndiayesirekane@gmail.com">
@@ -38,16 +39,7 @@ I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open
 
 📫 How to reach me:
 
-`Contact me here` -   <a href="mailto:ndiayesirekane@gmail.com">
-    <span style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </span>
-  </a>
-   <a href="https://wa.me/+221778673184">
-    <span style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </span>
-  </a>
+`Let's play Videos Games` - ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) - Ge3kmvn 
 
 ❤️ Support my open source projects:
 
