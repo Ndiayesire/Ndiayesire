@@ -1,5 +1,9 @@
-<p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p><br>
-<p align="center"> <h4 align="center"> Contact me here 👇 </h4> </p><br>
+<p align="center"> <h1 align="center"> Welcome to my profile👋 </h1> </p><br
+<p align="center">
+<a href="https://app.daily.dev/ndiayesirkane"><img src="https://api.daily.dev/devcards/v2/JrCUzateuFEqfCesQ8VPf.png?r=xo1" width="356" alt="Ndiaye Siré KANE's Dev Card"/></a>
+</p><br>
+
+<p align="center"> <h4 align="center"> Contact me here 👇 </h4> </p>
 
 <div align="center">
   <a href="mailto:ndiayesirekane@gmail.com">
@@ -45,22 +49,7 @@ I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/ndiayesire)
 
-<!--
-**elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=ndiayesire&show_icons=true alt=ndiayesire />
-	<a href="https://app.daily.dev/ndiayesirkane"><img src="https://api.daily.dev/devcards/v2/JrCUzateuFEqfCesQ8VPf.png?r=xo1" width="356" alt="Ndiaye Siré KANE's Dev Card"/></a>
 </p>
