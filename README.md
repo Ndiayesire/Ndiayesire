@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=ndiayesire&show_icons=true alt=ndiayesire />
+	<a href="https://app.daily.dev/ndiayesirkane"><img src="https://api.daily.dev/devcards/v2/JrCUzateuFEqfCesQ8VPf.png?r=xo1" width="356" alt="Ndiaye Siré KANE's Dev Card"/></a>
 </p>
