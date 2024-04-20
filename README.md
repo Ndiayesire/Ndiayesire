@@ -36,12 +36,6 @@ I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open
 
 👯 I’m looking to collaborate on NodeJS / VueJs projects. ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-🤔 I’m looking for help with supporting my open source projects.
-
-📫 How to reach me:
-
-`Let's play Videos Games` - ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)  PSN: Ge3kmvn 
-
 ❤️ Support my open source projects:
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/ndiayesire)
