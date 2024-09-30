@@ -30,10 +30,5 @@
   </a>
 </div><br>
 
-I'm Ndiaye Siré. I'm a Full Stack Developer who is passionate about making open-source projects.
-
-🔭 I’m currently working on opensource project [MarketPlace](https://github.com/Ndiayesire/Online-Marketplace) and [Mobile Money Exchange](https://github.com/Ndiayesire/Money-Exchange)
-
-👯 I’m looking to collaborate on NodeJS / VueJs projects. ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+I'm Ndiaye Siré. I'm a Full Stack Developer.
 
