@@ -6,5 +6,5 @@
 </a>
 </div><br>
 
-I'm Ndiaye Siré, a Full Stack Developer passionate about crafting seamless digital experiences. 🌐
+<p align="center"> I'm Ndiaye Siré, a Full Stack Developer passionate about crafting seamless digital experiences. 🌐</p>
 
